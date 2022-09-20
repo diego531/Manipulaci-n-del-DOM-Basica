@@ -1,2 +1,3 @@
-# Manipulaci-n-del-DOM-Basica
-Prueba del curso Practico de JavaScript
+# Prueba Manipulación del DOM básica
+
+*Este repositorio hace parte del curso Practico de JavaScript*  
